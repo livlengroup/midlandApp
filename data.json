@@ -1,0 +1,60 @@
+{
+    "business":[
+        {
+        "id": "1",
+        "name": "The Little Gym of Midland",
+        "link": "https://www.thelittlegym.com/midlandtx",
+        "discountDesc":
+          "Two free Bugs Classes for children ages 4 months to 9 months",
+        "desc": "Midland AF",
+        "address": "4400 W. Loop 250 Frontage Rd N., Suite 103 Midland, Texas 79707",
+        "phoneNum": "(432) 689-0800",
+        "image": "https://lh3.googleusercontent.com/_Y8JM43PqK3KGevr5l4LpXOnlYewz5Y-hRWGXvSrZBq8Q63FstCscTAkgcybaPpuBk5v_8IOP-q69VD1MEcNeD5CQvTCY8v9Y9M021v4uKmZzRJs7Ir2--ILsoeBSVfUjTJZdZ5R=w2400",
+        "tags": "kids"
+   },
+      {
+        "id": "2",
+        "name": "Hand Cafe",
+        "link": "https://www.HandCafeMidland.com",
+        "discountDesc": "Buy One, Get One Free Coffee or Tea",
+        "desc": "Midland AF",
+        "address": "5000 Briarwood Ave Suite 105, Midland, TX 79707",
+        "phoneNum": "",
+        "image": "https://lh3.googleusercontent.com/eef9uW69-0V0UVhzgQHhPC5sO3A7srFZ10LQltING6qCbixzWNwRzA0FcHXmlgoOCY_27UatX-kNMyvMM5weAagSkk30PNHrBvitoZ0gzHIsa0eeXrHKrla2oKAJmp2wrdw-akMU=w2400",
+        "tags": "eat"
+  },
+      {
+        "id": "3",
+        "name": "Grassfire Lawn & Landscaping",
+        "link": "https://www.grassfirelawnandlandscaping.com",
+        "discountDesc": "First Lawn Service Free!",
+        "desc": "Midland AF",
+        "address": "Servicing Midland & Odessa",
+        "phoneNum": "",
+        "image": "https://lh3.googleusercontent.com/6TMrwMOSG_h6S6PxGl-lUmcgU0Z1lwNCDK6V_gbTVr-YMwVHRXp_BBI5g5hn9A9aka1fQKE1wVkKadEAO4YwF44GWeeCB5rOIs-Wy1_ZK1mZFlPID8xhY5bE_IU6Pc2YTT8ipT6W=w2400",
+        "tags": "home"
+   },
+      {
+        "id": "4",
+        "name": "Livlen Media",
+        "link": "https://www.livlenmedia.com",
+        "discountDesc": "10% First Month of Social Media Management",
+        "desc": "Midland AF",
+        "address": "Servicing Midland & Odessa",
+        "phoneNum": "",
+        "image": "https://lh3.googleusercontent.com/ksVwUsOjldOIW1t88s_JPLyAzBaiv61e4pldYGdcyyt9aKzr9CPiW7TmaZT8chNBx25bKsChf5_weBIFkLEv8R2WH2jWfjFcaTaNWNHlJytyr5Sl73IPbOstq2xHvU6hYXCpKQYZ=w2400",
+        "tags": "business"
+      },
+      {
+        "id": "5",
+        "name": "Email",
+        "link": "mailto:advertise@midlandaf.com",
+        "discountDesc": "advertise@midlandaf.com",
+        "desc": "",
+        "address": "",
+        "phoneNum": "",
+        "image": "https://lh3.googleusercontent.com/IbwiCYCGEzwoLeiiL-NYU3ujlwHfP2_qk7T1MCdjFTza3qt8Nf_JLDJM6AOCr9E820S-akt8tT8l4WQVN8Zvc6jlVZLHHGz9LjXw3y4uMIeuLUredxTn1UcPrRZfXambvmo1_Y4C=w2400",
+        "tags": "all"
+     }
+    ]
+}
